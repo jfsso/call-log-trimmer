@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+	<string-array name="entries_count_settings">
+		<item>0</item>
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+		<item>40</item>
+		<item>50</item>
+		<item>100</item>
+		<item>200</item>
+		<item>300</item>
+		<item>400</item>
+		<item>500</item>
+	</string-array>
+
+	<string-array name="entryvalues_count_settings">
+		<item>0</item>
+		<item>5</item>
+		<item>10</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+		<item>40</item>
+		<item>50</item>
+		<item>100</item>
+		<item>200</item>
+		<item>300</item>
+		<item>400</item>
+		<item>500</item>
+	</string-array>
+
+	<string-array name="entries_maxium_per_contact_settings">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>10</item>
+		<item>20</item>
+		<item>30</item>
+		<item>40</item>
+		<item>50</item>
+	</string-array>
+
+	<string-array name="entryvalues_maxium_per_contact_settings">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>10</item>
+		<item>20</item>
+		<item>30</item>
+		<item>40</item>
+		<item>50</item>
+	</string-array>
+
+	<string-array name="entries_trim_frequency">
+		<item>After hang up</item>
+		<item>1 hour</item>
+		<item>3 hours</item>
+		<item>6 hours</item>
+		<item>12 hours</item>
+		<item>24 hours</item>
+	</string-array>
+
+	<string-array name="entryvalues_trim_frequency">
+		<item>0</item>
+		<item>1</item>
+		<item>3</item>
+		<item>6</item>
+		<item>12</item>
+		<item>24</item>
+	</string-array>
+
+
+</resources>

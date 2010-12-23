@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Application settings  -->
+    <string name="app_name">Call Log Trimmer</string>
+
+	<!-- General preferences -->
+	<string name="general_preferences_title">Preferences</string>
+
+	<string name="show_notification">Show notifications?</string>
+	<string name="show_notification_detailed">Enable this to show notifications when Call Log Trimmer is running</string>
+
+	<!-- Saving frequency -->
+	<string name="title_trim_frequency">Trim frequency</string>
+	<string name="summary_trim_frequency"></string>
+	<string name="dialog_title_trim_frequency">Trim frequency</string>
+	<string name="toast_trim_frequency">Scheduled: %s</string>
+
+	<!--  Trim Call Log Settings -->
+    <string name="preferences_title">Trim call log</string>
+
+    <string name="title_limit_by_count">Trim call log?</string>
+    <string name="summary_limit_by_count">Enable this to trim your call log</string>
+
+    <string name="title_count_settings">Number of calls to keep</string>
+    <string name="summary_count_settings">Set the maximum number of calls to keep in the call log</string>
+
+	<!-- Trim Call Log by Contacts Settings -->
+	<string name="colapse_by_contacts_preferences_title">Trim per phone number</string>
+
+    <string name="title_colapse_by_contacts">Trim per phone number?</string>
+    <string name="summary_colapse_by_contacts">Enable this to trim your call log per phone number</string>
+
+    <string name="title_maxium_per_contact_settings">Number of calls to keep</string>
+    <string name="summary_maxium_per_contact_settings">Set the maximum number of recent calls to/from a phone number to keep</string>
+
+	<!-- Dialogs, messages -->
+    <string name="dialog_title_count_settings">Choose one</string>
+    <string name="call_log_trimmed_toast">Call log trimmed!</string>
+
+    <!-- Notification -->
+    <string name="notification_progress">Progress: %d/%d</string>
+    <string name="notification_message">Trimming call log!</string>
+</resources>
