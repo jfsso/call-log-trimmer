@@ -39,6 +39,6 @@
     <string name="call_log_trimmed_toast">通話履歴が指定の件数に制限されました！</string>
 
     <!-- Notification  -->
-    <string name="notification_progress">進行状況: %d/%d</string>
+    <string name="notification_progress">進行状況: %1$d/%2$d</string>
     <string name="notification_message">通話履歴の件数制限を開始！</string>
 </resources>

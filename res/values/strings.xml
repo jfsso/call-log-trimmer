@@ -39,6 +39,6 @@
     <string name="call_log_trimmed_toast">Call log trimmed!</string>
 
     <!-- Notification -->
-    <string name="notification_progress">Progress: %d/%d</string>
+    <string name="notification_progress">Progress: %1$d/%2$d</string>
     <string name="notification_message">Trimming call log!</string>
 </resources>
