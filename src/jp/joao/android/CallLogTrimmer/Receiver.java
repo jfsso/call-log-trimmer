@@ -41,7 +41,7 @@ public class Receiver extends BroadcastReceiver {
 
 			if (pstn_state.equals(android.telephony.TelephonyManager.EXTRA_STATE_IDLE))
 			{
-				WakefulIntentService.sendWakefulWork(context, CallLogTrimmerService.class);
+				CallLogTrimmerService.startService(context);
 			}
 
 		}
