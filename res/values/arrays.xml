@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
-	<string-array name="entries_count_settings">
+	<string-array name="entries_count_settings" tools:ignore="MissingTranslation">
 		<item>0</item>
 		<item>5</item>
 		<item>10</item>
@@ -18,7 +18,7 @@
 		<item>500</item>
 	</string-array>
 
-	<string-array name="entryvalues_count_settings">
+	<string-array name="entryvalues_count_settings"  tools:ignore="MissingTranslation">
 		<item>0</item>
 		<item>5</item>
 		<item>10</item>
@@ -34,7 +34,7 @@
 		<item>500</item>
 	</string-array>
 
-	<string-array name="entries_maxium_per_contact_settings">
+	<string-array name="entries_maxium_per_contact_settings"  tools:ignore="MissingTranslation">
 		<item>1</item>
 		<item>2</item>
 		<item>3</item>
@@ -47,7 +47,7 @@
 		<item>50</item>
 	</string-array>
 
-	<string-array name="entryvalues_maxium_per_contact_settings">
+	<string-array name="entryvalues_maxium_per_contact_settings"  tools:ignore="MissingTranslation">
 		<item>1</item>
 		<item>2</item>
 		<item>3</item>
@@ -69,7 +69,7 @@
 		<item>24 hours</item>
 	</string-array>
 
-	<string-array name="entryvalues_trim_frequency">
+	<string-array name="entryvalues_trim_frequency"  tools:ignore="MissingTranslation">
 		<item>0</item>
 		<item>1</item>
 		<item>3</item>
