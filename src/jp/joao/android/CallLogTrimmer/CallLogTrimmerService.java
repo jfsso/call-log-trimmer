@@ -148,13 +148,13 @@ public class CallLogTrimmerService extends WakefulIntentService {
                 if (showNotifications) {
                     String ns = Context.NOTIFICATION_SERVICE;
                     notificationManager = (NotificationManager) getSystemService(ns);
-                    notification = new Notification(R.drawable.icon,
+                    notification = new Notification(R.drawable.ic_launcher,
                             getString(R.string.notification_message),
                             System.currentTimeMillis());
 
                     rv = new RemoteViews(this.getPackageName(),
                             R.layout.custom_notificationbar);
-                    rv.setImageViewResource(R.id.notifyImage, R.drawable.icon);
+                    rv.setImageViewResource(R.id.notifyImage, R.drawable.ic_launcher);
                     rv.setTextViewText(R.id.notifyText, String.format(
                             getString(R.string.notification_progress), 0,
                             itemsToDelete.size()));
